@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Sam Barros Blog</title>
+    <link>https://hba.sid.one/de-de/</link>
+    <description>Recent content in Home on Sam Barros Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 11 Feb 2024 15:54:56 +0100</lastBuildDate><atom:link href="https://hba.sid.one/de-de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einführung</title>
+      <link>https://hba.sid.one/de-de/posts/introduction/</link>
+      <pubDate>Sun, 11 Feb 2024 15:54:56 +0100</pubDate>
+      
+      <guid>https://hba.sid.one/de-de/posts/introduction/</guid>
+      
+      <description>Hallo zusammen,
+Erlaubt mir, mich vorzustellen: Ich bin Samarony Barros, auch bekannt als Sam Barros. Als Senior-Softwareentwickler aus Brasilien habe ich kürzlich meinen Weg nach Deutschland gefunden. Die Entscheidung, ins Ausland zu ziehen, war sowohl herausfordernd als auch lohnend und hat mir bemerkenswerte Erfahrungen beschert, die ich gerne mit euch teilen möchte.
+Wie viele Entwickler habe auch ich im Arbeitsalltag mit zahlreichen Programmierherausforderungen zu kämpfen. Und was ist der erste Instinkt, wenn man auf solche Probleme stößt?</description>
+      
+    </item>
+    
+    <item>
+      <title>Hallo, Ich bin Sam</title>
+      <link>https://hba.sid.one/de-de/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hba.sid.one/de-de/pages/about/</guid>
+      
+      <description>🚀 Willkommen in meinem kleinen Eckchen des digitalen Universums! Ich bin Samarony Barros, aber du kannst mich einfach Sam nennen. Mit über einem Jahrzehnt Erfahrung im ständig wandelnden Bereich der Softwareentwicklung bin ich von meinen bescheidenen Anfängen als Ruby-Entwicklungspraktikant zum Senior- und Lead-Softwareentwickler aufgestiegen.
+Meine berufliche Odyssee war dynamisch und führte mich durch verschiedene faszinierende Tech-Rollen. Derzeit besteht mein Spielplatz aus den dynamischen Bereichen NodeJS, ReactJS, JavaScript, Typescript, Express, MongoDB und Postgres.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

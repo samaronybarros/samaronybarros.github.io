@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Sam Barros Blog</title>
+    <link>https://hba.sid.one/pages/</link>
+    <description>Recent content in Pages on Sam Barros Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://hba.sid.one/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, I&#39;m Sam</title>
+      <link>https://hba.sid.one/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hba.sid.one/pages/about/</guid>
+      
+      <description>🚀 Welcome to my corner of the digital universe! I&amp;rsquo;m Samarony Barros, but you can just call me Sam. With over a decade of experience in the ever-evolving realm of software development, I&amp;rsquo;ve journeyed from my humble beginnings as a Ruby Developer Intern to assuming the mantle of Senior and Lead Software Developer.
+My professional odyssey has been a dynamic one, traversing through various captivating tech roles. Presently, my playground comprises the dynamic realms of NodeJS, ReactJS, JavaScript, Typescript, Express, MongoDB, and Postgres.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
