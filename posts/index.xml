@@ -1,24 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samarony Barros Blog</title>
-    <link>https://samaronybarros.github.io/</link>
-    <description>Recent content on Samarony Barros Blog</description>
+    <title>Posts on Samarony Barros Blog</title>
+    <link>https://samaronybarros.github.io/posts/</link>
+    <description>Recent content in Posts on Samarony Barros Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2024 11:32:19 +0100</lastBuildDate>
-    
-        <atom:link href="https://samaronybarros.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://samaronybarros.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Tests Post</title>
       <link>https://samaronybarros.github.io/posts/mypost/</link>
       <pubDate>Sun, 11 Feb 2024 11:32:19 +0100</pubDate>
-      
       <guid>https://samaronybarros.github.io/posts/mypost/</guid>
-      <description>My initial content
-console.log(&amp;#39;My awesome Post!!!&amp;#39;) </description>
+      <description>My initial content&#xA;console.log(&amp;#39;My awesome Post!!!&amp;#39;) </description>
     </item>
-    
   </channel>
 </rss>
