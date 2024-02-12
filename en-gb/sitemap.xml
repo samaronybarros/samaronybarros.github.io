@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hba.sid.one/</loc>
+    <loc>https://samaronybarros.github.io/</loc>
     <lastmod>2024-02-11T15:54:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/"
+                href="https://samaronybarros.github.io/de-de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/"
+                href="https://samaronybarros.github.io/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/posts/introduction/</loc>
+    <loc>https://samaronybarros.github.io/posts/introduction/</loc>
     <lastmod>2024-02-11T15:54:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/introduction/"
+                href="https://samaronybarros.github.io/de-de/posts/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/introduction/"
+                href="https://samaronybarros.github.io/posts/introduction/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/posts/</loc>
+    <loc>https://samaronybarros.github.io/posts/</loc>
     <lastmod>2024-02-11T15:54:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/"
+                href="https://samaronybarros.github.io/de-de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/"
+                href="https://samaronybarros.github.io/posts/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/categories/</loc>
+    <loc>https://samaronybarros.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/categories/"
+                href="https://samaronybarros.github.io/de-de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/categories/"
+                href="https://samaronybarros.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/pages/about/</loc>
+    <loc>https://samaronybarros.github.io/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/pages/about/"
+                href="https://samaronybarros.github.io/de-de/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/pages/about/"
+                href="https://samaronybarros.github.io/pages/about/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/pages/</loc>
+    <loc>https://samaronybarros.github.io/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/pages/"
+                href="https://samaronybarros.github.io/de-de/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/pages/"
+                href="https://samaronybarros.github.io/pages/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/tags/</loc>
+    <loc>https://samaronybarros.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/tags/"
+                href="https://samaronybarros.github.io/de-de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/tags/"
+                href="https://samaronybarros.github.io/tags/"
                 />
   </url>
 </urlset>
